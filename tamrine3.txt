@@ -1,0 +1,2 @@
+perform naive bayes and logistic regression on data.scv.
+compare accuracies and justify them.
