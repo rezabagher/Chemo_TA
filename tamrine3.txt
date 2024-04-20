@@ -1,2 +1,2 @@
-perform naive bayes and logistic regression on data.scv.
+perform naive bayes and logistic regression on data.csv.
 compare accuracies and justify them.
