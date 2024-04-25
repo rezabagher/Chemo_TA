@@ -1,4 +1,5 @@
 chemometric Course
+
 Welcome to the chemometric Course repository! This course aims to provide a comprehensive introduction to machine learning using Python, Jupyter Notebooks, and popular libraries such as scikit-learn . 
 Whether you’re a beginner or an experienced data scientist, this course will equip you with the necessary tools and knowledge to tackle real-world ML problems.
 
