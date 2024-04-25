@@ -23,17 +23,19 @@ Lecture Notebooks: Detailed notebooks covering different ML topics.
 Lab Exercises: Hands-on labs to reinforce your understanding.
 Slides: HTML and PDF versions of presentation slides.
 Study Materials: Additional resources for deeper learning.
+
 Prerequisites
 Before diving into the course, make sure you have:
-
 Basic knowledge of Python.
 Familiarity with data manipulation and visualization.
 A desire to explore the exciting field of machine learning!
+
 Getting Started
 Clone this repository to your local machine.
-Install the required dependencies (see requirements.txt).
+Install the required dependencies.
 Explore the notebooks in the notebooks directory.
 Experiment with the code, modify examples, and run your own experiments.
+
 Contributing
 Contributions are welcome! If you find any issues or want to enhance the course content, feel free to submit pull requests.
 
